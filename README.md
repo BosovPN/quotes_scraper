@@ -1,6 +1,6 @@
 # Quotes_scraper
 
-## Программа для сбора цитат с сайта quotes.toscrape.com и сохранения их в формате JSON
+## Программа для сбора цитат с сайта quotes.toscrape.com и сохранения их в формате JSON в файл data/quotes.json
 ## Пример выходного файла:
 
 ```sh
